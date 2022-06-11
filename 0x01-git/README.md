@@ -1,1 +1,1 @@
-created a directory 0x01-git
+Created a new directory 0x01-git
